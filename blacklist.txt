@@ -21,4 +21,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 tonybet.com
 0.0.0.0 media.affiliatestonybet.com
 0.0.0.0 bet365.com
+0.0.0.0 www.bet365.com
 0.0.0.0 stake.com
